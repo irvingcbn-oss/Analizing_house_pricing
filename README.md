@@ -8,4 +8,6 @@ This project is part of a Data Analysis course and focuses on identifying how di
 - Matplotlib
 - Seaborn
 
+## Dataset
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
